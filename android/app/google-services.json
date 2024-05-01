@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401665690877",
+    "project_id": "notifications-abb2f",
+    "storage_bucket": "notifications-abb2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401665690877:android:9eaa4eea87e31afad5c294",
+        "android_client_info": {
+          "package_name": "com.example.flutter_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMQPxiq0UnsK41xU1bVgneJLn-Xe-HET0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
